@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImpresoraClase6/ImpresoraClase6.iml" filepath="$PROJECT_DIR$/ImpresoraClase6/ImpresoraClase6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mascotas_clase1/Mascotas_clase1.iml" filepath="$PROJECT_DIR$/Mascotas_clase1/Mascotas_clase1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miPrimerProyecto/MiPrimerProyecto.iml" filepath="$PROJECT_DIR$/miPrimerProyecto/MiPrimerProyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adopcionPerros/adopcionPerros.iml" filepath="$PROJECT_DIR$/adopcionPerros/adopcionPerros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/alimentarMascota/alimentarMascota.iml" filepath="$PROJECT_DIR$/alimentarMascota/alimentarMascota.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase_2_funciones/clase_2_funciones.iml" filepath="$PROJECT_DIR$/clase_2_funciones/clase_2_funciones.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaDh.iml" filepath="$PROJECT_DIR$/.idea/javaDh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usuarioJuego/usuarioJuego.iml" filepath="$PROJECT_DIR$/usuarioJuego/usuarioJuego.iml" />
+    </modules>
+  </component>
+</project>
