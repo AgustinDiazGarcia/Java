@@ -20,6 +20,5 @@ public class Main {
         }
         return true;
     }
-    //ejercicio 2
-    public static
+
 }
